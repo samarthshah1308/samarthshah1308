@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/samarth shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samarth shah" height="30" width="40" /></a>
 <a href="https://instagram.com/samarth_1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarth_1308" height="30" width="40" /></a>
-  <a href="https://instagram.com/samarth_1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdin.svg" alt="samarth_1308" height="30" width="40" /></a>
+  <a href="https://instagram.com/samarth_1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdin.svg" alt="SAMARTH SHAH" height="30" width="40" /></a>
   
 </p>
 
